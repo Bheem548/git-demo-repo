@@ -1,0 +1,3 @@
+This is to check the Branching:
+
+==> This line will have both master and branch1
