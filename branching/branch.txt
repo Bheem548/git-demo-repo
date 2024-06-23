@@ -1,1 +1,2 @@
 These changes are only in conflic_merge_2
+This is in conflict merge1 only
