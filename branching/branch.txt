@@ -1,1 +1,1 @@
-Making some changes in master 
+This is in conflict merge1 only
