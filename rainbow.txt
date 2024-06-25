@@ -3,4 +3,5 @@ blue
 green
 red
 yellow
-pink
+indigo
+orange
