@@ -5,3 +5,4 @@ red
 yellow
 indigo
 orange
+pink
