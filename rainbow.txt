@@ -8,3 +8,5 @@ orange
 pink
 lavander
 salamander
+onion
+tomato
