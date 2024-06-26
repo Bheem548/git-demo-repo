@@ -6,3 +6,5 @@ yellow
 indigo
 orange
 pink
+lavander
+salamander
