@@ -1,0 +1,2 @@
+This file will not be tracked as it is in .gitignore  
+
